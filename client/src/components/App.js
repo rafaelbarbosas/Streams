@@ -13,7 +13,7 @@ const App = () => {
         <div className="ui container">
             <Router
                 history={history}
-                basename="/Streams/"
+                basename="/Streams"
             >
                 <Header />
                 <div>
